@@ -4,7 +4,7 @@ This is a simple and responsive login page built with HTML and CSS. The design f
 
 ## 🌐 Demo
 
-To be deployed soon via GitHub Pages or Netlify.
+(https://github.com/tarik-thomas/Login)
 
 ## 🚀 Features
 
